@@ -100,7 +100,7 @@ Privacy: -> **Allow privacy-preserving measurement of ad effectiveness** -> ❌
 
 # Start Page 
 
-Settings icon on bottom right:
+*Settings icon on bottom right*:
 
 **Frequently Visited** -> ❌
 
