@@ -112,8 +112,10 @@ Privacy: -> **Allow privacy-preserving measurement of ad effectiveness** -> ❌
 
 * Follow my macOS settings [here](https://codeberg.org/Magnesium1062/macos-settings).
 
-* Enable [Lockdown Mode](https://support.apple.com/105120).
+* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259). *See my recommended settings [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-macos)*
 
-* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to (See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings)), otherwise I would recommend [Quad9](https://quad9.net/): `https://dns.quad9.net/dns-query`
+
+* Enable [Lockdown Mode](https://support.apple.com/105120).
 
 * Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
