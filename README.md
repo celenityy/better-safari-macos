@@ -26,13 +26,15 @@ You should not save info in your browser like this for security reasons, use a d
 
 AutoFill web forms:
 
-**Using information from my contacts** -> ❌
+* **Using information from my contacts** -> ❌
 
-**User names and passwords** -> ❌
+* **User names and passwords** -> ❌
 
-**Credit cards** -> ❌
+* **Credit cards** -> ❌
 
-**Other forms** -> ❌
+* **Other forms** -> ❌
+
+<br>
 
 # Passwords
 
@@ -94,7 +96,7 @@ Smart Search field: -> **Show full website address** -> ✅
 
 Privacy: -> **Use advanced tracking and fingerprinting protection** -> ✅
 
-Privacy: -> Use advanced tracking and fingerprinting protection -> `in all browsing`
+Privacy: -> **Use advanced tracking and fingerprinting protection** -> `in all browsing`
 
 Privacy: -> **Allow websites to check for Apple Pay and Apple Card** -> ❌
 
