@@ -2,7 +2,7 @@
 
 My recommendations for the ultimate configuration of the Safari Browser on macOS :)
 
-**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/Magnesium1062/better-safari-macos), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/Retold3202/better-safari-macos).
+**NOTE:** This project can be found on both [Codeberg](https://codeberg.org/celenity/better-safari-macos), which will act as the main & preferred way to contribute, and [GitHub](https://github.com/celenityy/better-safari-macos).
 
 # General
 
@@ -114,11 +114,11 @@ Privacy: -> **Allow privacy-preserving measurement of ad effectiveness** -> ❌
 
 # Additional recommendations
 
-* Follow my macOS settings [here](https://codeberg.org/Magnesium1062/macos-settings).
+* Follow my macOS settings [here](https://codeberg.org/celenity/macos-settings).
 
-* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259). *See my recommended settings [here](https://codeberg.org/Magnesium1062/adguard-safari-settings-macos)*.
+* Use a content blocking extension like [AdGuard](https://apps.apple.com/app/adguard-for-safari/id1440147259). *See my recommended settings [here](https://codeberg.org/celenity/adguard-safari-settings-macos)*.
 
-* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/Magnesium1062/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
+* Use a private, secure, & reputable DNS provider of your choice. I would recommend setting up your own [NextDNS](https://nextdns.io) configuration if you are able to *(See my recommendations for NextDNS [here](https://codeberg.org/celenity/nextdns-settings))*, otherwise I would recommend [Quad9](https://quad9.net/).
 
 * Enable [Lockdown Mode](https://support.apple.com/105120).
 
