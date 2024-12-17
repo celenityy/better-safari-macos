@@ -102,7 +102,7 @@ Privacy: -> **Allow websites to check for Apple Pay and Apple Card** -> ❌
 
 Privacy: -> **Allow privacy-preserving measurement of ad effectiveness** -> ❌
 
-# Start Page 
+# Start Page
 
 *Settings icon on bottom right*:
 
@@ -122,4 +122,4 @@ Privacy: -> **Allow privacy-preserving measurement of ad effectiveness** -> ❌
 
 * Enable [Lockdown Mode](https://support.apple.com/105120).
 
-* Use a (reputable) VPN. I would recommend either [Mullvad](https://mullvad.net/) or [ProtonVPN](https://protonvpn.com/).
+* Use a (reputable) VPN. I would generally recommend either [Mullvad](https://mullvad.net/), [IVPN](https://www.ivpn.net/), or [ProtonVPN](https://protonvpn.com/).
